@@ -10,6 +10,6 @@ sidebar:
 
 This page contains an overview of all officially published material about the Web Curator Tool.
 
-#### Publications
+#### Publications.
 
 #### Presentations, workshop material, and posters
